@@ -29,6 +29,8 @@ for [strings](https://github.com/enricocid/Music-Player-GO/pull/227), [readme](h
 
 - [**Aidan Follestad**](https://github.com/afollestad) for the [RecyclerView's swipe implementation](https://github.com/afollestad/recyclical/blob/master/swipe/src/main/java/com/afollestad/recyclical/swipe/SwipeItemTouchListener.kt#L120) found in details fragment and queue/loved songs dialogs
 
+- [**Nandika Regatti**](https://github.com/regatti) for having [improved](https://github.com/enricocid/Music-Player-GO/commit/3ea8f71ee71743de4007ae9d872ebed03112f302) the README
+- 
 - [**watauoa**](https://github.com/watauoa) for the [original sleep timer](https://github.com/enricocid/Music-Player-GO/pull/388) implementation
 
 - [**sinoory**](https://github.com/sinoory) for helping to fix a bug with [equalizer](https://github.com/enricocid/Music-Player-GO/issues/479), [playback speed](https://github.com/enricocid/Music-Player-GO/issues/480), [favorites](https://github.com/enricocid/Music-Player-GO/issues/486) and [audio focus](https://github.com/enricocid/Music-Player-GO/issues/496)
@@ -109,6 +111,8 @@ This work is licensed under a [CC 0](https://creativecommons.org/share-your-work
 
 - [**Landry Racoon**](https://github.com/landry314) for having reported [495](https://github.com/enricocid/Music-Player-GO/issues/495)
 
+- [**UdeshyaDhungana**](https://github.com/UdeshyaDhungana) for this [improvement](https://github.com/enricocid/Music-Player-GO/commit/23ba8c3fd7e28dec411743c8bdd48cb0ceadfc5d)
+
 
 ### Big thanks to translators:
 
@@ -147,5 +151,13 @@ This work is licensed under a [CC 0](https://creativecommons.org/share-your-work
 - [**lgjint**](https://github.com/lgjint) for **Chinese simplified** translations
 
 - [**Krishan**](https://github.com/k7bura) for **Hindi** translations
+
+- [**hosêyň abāspanā**](https://github.com/hosseinabaspanah) for **Bakhtiari" translations
+
+- **Aleksandar L ** for **Serbian** translations
+
+- [**GET100PERCENT**](https://github.com/GET100PERCENT) for **Odia** translations
+
+- [**K Gill**](https://github.com/ShareASmile) for **Punjabi** translations
 
 ... and many others from Weblate! : )

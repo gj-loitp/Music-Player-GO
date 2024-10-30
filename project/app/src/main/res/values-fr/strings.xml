@@ -54,7 +54,7 @@
     <string name="headset_pref_title">Branchement du casque</string>
     <string name="filter_pref_title">Filtres</string>
     <string name="filter_popup_title">Masquer</string>
-    <string name="notification_actions_repeat">Actions de notification supplémentaires</string>
+    <string name="notification_actions_repeat">Répéter/fermer</string>
     <string name="fast_seeking_pref_summary">Pas d\'avance rapide (en secondes)</string>
     <string name="fast_seeking_pref_title">Avance rapide</string>
     <string name="song_visual_pref_fn_title">Nom du fichier</string>
@@ -181,4 +181,7 @@
     <string name="sorting_pref_reset_sum">S\'applique aux albums et aux dossiers</string>
     <string name="sorting_pref_reset_neutral">Ne plus demander</string>
     <string name="locale_punjabi">Pendjabi</string>
+    <string name="locale_bakhtiari">Bakhtiari</string>
+    <string name="locale_odia">Odia</string>
+    <string name="locale_serbian">Serbe</string>
 </resources>
