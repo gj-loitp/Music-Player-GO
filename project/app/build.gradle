@@ -59,7 +59,7 @@ android {
 
     // For Kotlin projects
     kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_17.toString()
+        jvmTarget = "17"
     }
     packagingOptions {
         jniLibs {
